@@ -20,7 +20,7 @@ This repository includes the following foundational Swift programming concepts:
 
 ## Getting Started
 
-To get started with these lessons, you'll need to have [Xcode](https://developer.apple.com/xcode/) installed. 
+To get started with these lessons, you'll need to have [Xcode](https://developer.apple.com/xcode/) or [Visual Studio Code](https://code.visualstudio.com) installed. 
 
 ## Contributions
 
