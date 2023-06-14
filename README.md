@@ -1,6 +1,6 @@
-# Building Blocks - Swift Programming for Beginners 
+# Building Blocks - Swift Programming 
 
-Welcome to Building Blocks, a foundational Swift programming course designed for budding coders! 
+Welcome to Building Blocks, a foundational Swift programming Module designed for budding coders! 
 
 ![Swift Programming Language](https://img.shields.io/badge/Swift-5.3-orange.svg)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
