@@ -16,6 +16,8 @@
  So if I put a banana in an optional, I can open the box, removed the banana but not replace it with anything.
  Variables and constants have to have something inside them but optionals don't.
 
+ _________________________________________________________
+
 - How to create a variable:
     * Use the keyword "var" followed by the name of the variable.
 
@@ -42,7 +44,7 @@
 
 
 - How to print out the value of a variable, constant, or optional:
-    * Use the print() function.
+    * Use the print() function. We'll cover functions in more detail in the 'Grouping Data' module.
 
     print(myVariableName)
     print(myConstantName)

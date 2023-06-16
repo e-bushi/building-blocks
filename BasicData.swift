@@ -1,5 +1,5 @@
 /**
-    In this file, we'll learn the basic type of data our variables, constants, and optionals can hold.
+    In this file, we'll learn the basic type of data that our variables, constants, and optionals can hold.
 
     In the previous lesson, we learned that variables, constants, and optionals are 
     like digital boxes that can hold values. These values can be considered data and in swift there are 
@@ -18,6 +18,8 @@
     And more specifically, each digital box you create in your programs will contain one or some grouping of them.
 
     Let's take a look at each of them in more detail.
+
+    _________________________________________________________
 
     1. Number types
 
@@ -60,6 +62,28 @@
     - "ffasicnre232124"
     - "1234567890"
 
-    Characters are a single letter, number, or punctuation mark. They are enclosed in single quotes.
+    To create a string, we can write:
+
+    var name: String = "John"
+    let name: String = "Anna"
+
+    Characters are a single letter, number, or punctuation mark. They are enclosed in quotes.
+
+    Here are some examples of characters:
+    - "a"
+    - "b"
+    - "c"
+    - "1"
+    - "2"
+    - "3"
+    - "!"
+    - "@"
+    - "#"
+
+    To create a character, we can write:
+
+    var firstLetter: Character = "J"
+    let firstLetter: Character = "A"
+
 
 **/
