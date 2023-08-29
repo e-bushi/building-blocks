@@ -64,16 +64,16 @@
 
 **/
 
-// Create a variable called age and put the number 5 inside it.
+// Create a variable called youngAge and put the number 5 inside it.
 
 
-// Create a constant called name and put the number 5 inside it.
+// Create a constant called middleAge  and put the number 50 inside it.
 
 
-// Create an optional called eyeColor and put the number 5 inside it.
+// Create an optional called oldAge and put the number 90 inside it.
 
 
-// Print out the value of myVariable, myConstant, and myOptional.
+// Print out the value of youngAge, middleAge, and oldAge.
 
 
 // Bonus: 
