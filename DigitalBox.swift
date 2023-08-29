@@ -65,29 +65,26 @@
 **/
 
 // Create a variable called youngAge and put the number 5 inside it.
-
+var youngAge = 5
 
 // Create a constant called middleAge  and put the number 50 inside it.
-
+let middleAge = 50
 
 // Create an optional called oldAge and put the number 90 inside it.
-
+var oldAge: Int? = nil
 
 // Print out the value of youngAge, middleAge, and oldAge.
-
+print("youngAge: \(youngAge), middleAge: \(middleAge), oldAge: \(oldAge)")
 
 // Bonus: 
 
-// Change the value of age to 10.
+// Change the value of youngAge to 10.
 
 
-// Then set the value of age to the constant name. Comment out this line after you test it.
+// Create a new variable called ageInTenYears and set it equal to youngAge + 10.
 
 
-// Create a new variable called ageInTenYears and set it equal to age + 10.
-
-
-// Set original age variable to new variable ageInTenYears.
+// Set the youngAge variable to new variable ageInTenYears.
 
 
 //print out the value of age and ageInTenYears. What do you notice?
