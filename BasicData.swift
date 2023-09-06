@@ -87,3 +87,18 @@
 
 
 **/
+
+// Create a variable and called name and put a string with your name inside it.
+
+
+// Create a constant called career and put a string with career or aspiring career inside it.
+
+
+// Create a constant called age and put your age inside it.
+
+
+// Create an optional called emoji and create a character type with your favorite emoji inside it.
+
+
+// Print out the value of name, career, age, and emoji. (The result should look like this: 
+//"John is a 25 year old aspiring iOS developer who loves to code in Swift! 😎"

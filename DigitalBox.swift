@@ -65,16 +65,16 @@
 **/
 
 // Create a variable called youngAge and put the number 5 inside it.
-var youngAge = 5
+
 
 // Create a constant called middleAge  and put the number 50 inside it.
-let middleAge = 50
+
 
 // Create an optional called oldAge and put the number 90 inside it.
-var oldAge: Int? = nil
+
 
 // Print out the value of youngAge, middleAge, and oldAge.
-print("youngAge: \(youngAge), middleAge: \(middleAge), oldAge: \(oldAge)")
+
 
 // Bonus: 
 

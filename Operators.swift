@@ -54,3 +54,39 @@
         The data types I can use these on are:
             - Boolean type: Only booleans
 **/
+
+// Create a variable called age and assign it any integer value you want
+
+
+// Print the value of age
+
+
+// Write an if statement that checks if age is greater or equal to 0 AND less than 125
+// If it is, print "Your age is valid"
+// If it's not, print "Your age is invalid"
+
+
+// Create a variable called name and assign it any string value you want
+
+
+// Print the value of name
+
+
+// Create another variable called helloMessage and assign it use the + operator to combine the string "Hello, " 
+//with the name variable
+
+
+// Print the value of helloMessage
+
+
+// Create a constant called grade and assign it any integer value you want
+
+// Print the value of grade
+
+//Now take the grade constant and reassign a number to it like this
+//grade = 10
+
+//Then try to print the value of grade again
+
+
+//What happened? Why did this happen?

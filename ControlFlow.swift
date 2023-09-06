@@ -111,3 +111,39 @@
     }
     
 **/
+
+// Create an variable called trafficLight, and set it equal to the green circle emoji "🟢".
+
+
+// Create an if statement that checks if the trafficLight is equal to the green circle emoji "🟢".
+//if the traffic light is green, print "Go!"
+//if the traffic light is yellow, print "Slow down!"
+//if the traffic light is red, print "Stop!"
+
+
+// Create a switch statement that checks if the trafficLight is equal to the green circle emoji "🟢".
+//if the traffic light is green, print "Go!"
+//if the traffic light is yellow, print "Slow down!"
+//if the traffic light is red, print "Stop!"
+
+
+var temperature = -1 
+
+// Create an if statement that checks if the temperature is less than 0.
+if temperature < 0 {
+    print("It's dangerously cold outside")
+} else {
+    print("It may be cold, but it ain't dangerous")
+}
+
+
+switch temperature {
+    case ..<0:
+        print("It's dangerously cold outside")
+    case 0...10:
+        print("It may be cold, but it ain't dangerous")
+    case 11...:
+        print("Ok, from here its starting to get hot")
+    default:
+        print("Idk what to do with this temperature")
+}
